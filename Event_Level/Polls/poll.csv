@@ -1,0 +1,4 @@
+polls,eventid
+"[{'pollid': 101962205, 'polltype': 'singleoption', 'pollquestionid': 24073913, 'pollquestion': 'Have you seen an ON24 webinar prior to today?', 'totalvotes': 7, 'summary': [{'answercode': 'choice1', 'answer': 'Yes I have seen one.', 'percentage': 14.3}, {'answercode': 'choice2', 'answer': 'No, I have not seen one prior to today.', 'percentage': 85.7}]}, {'pollid': 101962315, 'polltype': 'singleoption', 'pollquestionid': 24073948, 'pollquestion': 'Which would you choose to eat for dinner?', 'totalvotes': 7, 'summary': [{'answercode': 'choice1', 'answer': 'A super healthy salad', 'percentage': 14.3}, {'answercode': 'choice2', 'answer': 'Steak and potatoes', 'percentage': 28.6}, {'answercode': 'choice3', 'answer': 'Spaghetti and meatballs', 'percentage': 0.0}, {'answercode': 'choice4', 'answer': 'Pizza', 'percentage': 57.1}]}]",2224325
+[],2240042
+[],2252874

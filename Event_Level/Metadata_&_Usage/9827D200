@@ -1,0 +1,325 @@
+eventanalytics,eventid,eventduration,clientid,goodafter,isactive,regrequired,description,regnotificationrequired,displaytimezonecd,eventtype,category,createtimestamp,localelanguagecd,lastmodified,iseliteexpired,livestart,liveend,archivestart,archiveend,audienceurl,eventprofile,streamtype,audiencekey,reporturl,uploadurl,speakers,partnerrefstats,funnelstages,pmurl,previewurl,application,contenttype,lastupdated,promotionalsummary,,
+"{'totalregistrants': 8, 'totalattendees': 7, 'liveattendees': 7, 'ondemandattendees': 2, 'numberofquestionsasked': 19, 'numberofquestionsanswered': 9, 'numberofpollspushed': 2, 'numberofpollresponses': 14, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 1, 'registrationpagehits': 22, 'numberofctaclicks': 3, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 4.9}",2224325,25,35078,2020-03-19T09:00:00-07:00,TRUE,TRUE,Vertex ON24 Webcasting Demo,TRUE,America/New_York,Live Video and Audio,Training/Learning,2020-03-12T14:08:01-07:00,en,2020-04-01T15:03:18-07:00,N,2020-03-19T08:45:00-07:00,2020-03-19T09:28:07-07:00,2020-03-19T10:00:00-07:00,2020-12-31T23:59:00-08:00,https://event.on24.com/wcc/r/2224325/743F77990ECC558CC04EBEBA95B2BC61,Stonehenge Profile (918),video,743F77990ECC558CC04EBEBA95B2BC61,https://data.on24.com/webcast/report?e=2224325&k=C8D6F767266FE1301D687916195ED6CC,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2224325&sessionid=1&key=C8D6F767266FE1301D687916195ED6CC,"[{'name': 'Glenn Butcher', 'title': 'Sr. Director, CF Global Marketing', 'company': 'Vertex Pharmaceuticals', 'description': 'Glenn leads the Global Digital Marketing team at Vertex where he and his team drive the growth of digital capabilities, platforms, and processes to improve customer engagement.'}, {'name': 'Alex Lopes', 'title': 'Account Executive', 'company': 'ON24, Inc', 'description': ''}, {'name': 'Diane Patricia Mohan', 'title': 'Director, Customer Success', 'company': 'ON24, Inc', 'description': ''}]","[{'code': '-', 'count': 22}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2224325&sessionid=1&key=C8D6F767266FE1301D687916195ED6CC,http://event.on24.com/webcast/previewlobby?e=2224325&k=C8D6F767266FE1301D687916195ED6CC,Employee Training,webcast,2020-03-23T05:32:55-07:00,"<p style=""list-style-type:none""><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif"">Please register for a live demo of Vertex&rsquo;s ON24 webcasting service.&nbsp; This demo will last 30 minutes and will show what our customers will experience when participating in a webcast.&nbsp; The Demo will be followed by a 30 minute zoom meeting to discuss next steps (sent in separate invite).</span></span></p>",,
+"{'totalregistrants': 21, 'totalattendees': 21, 'liveattendees': 0, 'ondemandattendees': 21, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 21, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0.3}",2240042,5,35078,2020-03-24T06:26:00-07:00,TRUE,FALSE,On demand testing with Alex & Julia,TRUE,Europe/Berlin,On Demand,null,2020-03-23T13:28:44-07:00,de,2020-05-04T13:48:20-07:00,N,2020-03-24T06:26:00-07:00,2020-03-24T06:26:00-07:00,2020-03-24T06:26:00-07:00,2021-01-01T00:25:00-08:00,https://event.on24.com/wcc/r/2240042/7F7C88E26F87BC455A0BF5C40E10351B,Stonehenge Profile (1215),audio,7F7C88E26F87BC455A0BF5C40E10351B,https://data.on24.com/webcast/report?e=2240042&k=B4B0D33F2444EFEBCC28317348A30103,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2240042&sessionid=1&key=B4B0D33F2444EFEBCC28317348A30103,"[{'name': 'Alexandre Patchev, MD, PhD', 'title': 'Associate Medical Director', 'company': 'Associate Medical Director', 'description': ''}, {'name': 'Julia Sharp', 'title': 'Marketing Manager Digital & Multichannel', 'company': 'Vertex Pharmaceuticals (Germany) GmbH', 'description': ''}]","[{'code': '-', 'count': 21}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2240042&sessionid=1&key=B4B0D33F2444EFEBCC28317348A30103,http://event.on24.com/webcast/previewlobby?e=2240042&k=B4B0D33F2444EFEBCC28317348A30103,null,webcast,2020-05-01T09:42:14-07:00,null,,
+"{'totalregistrants': 1, 'totalattendees': 1, 'liveattendees': 0, 'ondemandattendees': 1, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 2, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0.1}",2252874,2,35078,2020-03-30T11:00:00-07:00,TRUE,TRUE,Glenn's Test Webcast,TRUE,America/Kentucky/Louisville,Live Video and Audio,Other,2020-03-30T09:19:19-07:00,en,2020-04-19T11:55:27-07:00,N,2020-03-30T10:45:00-07:00,2020-03-30T11:08:29-07:00,2020-03-30T12:00:00-07:00,2021-03-30T12:00:00-07:00,https://event.on24.com/wcc/r/2252874/EDEB420C8FBBE602C86B5B25D3849DF4,Stonehenge Profile (918),video,EDEB420C8FBBE602C86B5B25D3849DF4,https://data.on24.com/webcast/report?e=2252874&k=F05210E0CFC41AAA8A91B6AD9D0980DA,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2252874&sessionid=1&key=F05210E0CFC41AAA8A91B6AD9D0980DA,"[{'name': 'Glenn Butcher', 'title': 'Sr. Director, CF Global Marketing', 'company': 'Vertex Pharmaceuticals', 'description': ''}, {'name': 'Alex Lopes', 'title': 'Account Executive', 'company': 'ON24, Inc', 'description': ''}]","[{'code': '-', 'count': 2}]",['Awareness'],https://pm.on24.com/presentationManager/login.jsp?eventid=2252874&sessionid=1&key=F05210E0CFC41AAA8A91B6AD9D0980DA,http://event.on24.com/webcast/previewlobby?e=2252874&k=F05210E0CFC41AAA8A91B6AD9D0980DA,null,webcast,2020-04-17T14:40:47-07:00,null,,
+"{'totalregistrants': 26, 'totalattendees': 24, 'liveattendees': 22, 'ondemandattendees': 4, 'numberofquestionsasked': 17, 'numberofquestionsanswered': 2, 'numberofpollspushed': 1, 'numberofpollresponses': 18, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 2, 'registrationpagehits': 41, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 3.2}",2281637,31,35078,2020-04-17T05:30:00-07:00,TRUE,TRUE,Vertex ON24 Intro and Demo (Apr 17th),TRUE,America/Kentucky/Monticello,Live Video and Audio,null,2020-04-08T09:20:34-07:00,en,2020-05-04T13:18:20-07:00,N,2020-04-17T05:15:00-07:00,2020-04-17T06:02:25-07:00,2020-04-17T07:00:00-07:00,2021-04-17T07:00:00-07:00,https://event.on24.com/wcc/r/2281637/48CFC3EFE385C7C04F95D55536107C32,Stonehenge Profile (918),video,48CFC3EFE385C7C04F95D55536107C32,https://data.on24.com/webcast/report?e=2281637&k=C252830FC24EAD4883DC40E0F469907A,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2281637&sessionid=1&key=C252830FC24EAD4883DC40E0F469907A,"[{'name': 'Glenn Butcher', 'title': 'Sr. Director, CF Global Marketing', 'company': 'Vertex Pharmaceuticals', 'description': ''}, {'name': 'Alex Lopes', 'title': 'Account Executive', 'company': 'ON24, Inc', 'description': ''}]","[{'code': '-', 'count': 41}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2281637&sessionid=1&key=C252830FC24EAD4883DC40E0F469907A,http://event.on24.com/webcast/previewlobby?e=2281637&k=C252830FC24EAD4883DC40E0F469907A,null,webcast,2020-05-01T08:55:35-07:00,null,,
+"{'totalregistrants': 21, 'totalattendees': 18, 'liveattendees': 17, 'ondemandattendees': 3, 'numberofquestionsasked': 27, 'numberofquestionsanswered': 2, 'numberofpollspushed': 1, 'numberofpollresponses': 13, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 3, 'registrationpagehits': 26, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 5.3}",2281639,49,35078,2020-04-21T05:30:00-07:00,TRUE,TRUE,Vertex ON24 Intro and Demo (Apr 21st),TRUE,America/Indiana/Indianapolis,Live Video and Audio,null,2020-04-08T09:21:29-07:00,en,2020-05-10T01:59:32-07:00,N,2020-04-21T05:15:00-07:00,2020-04-21T06:20:12-07:00,2020-04-21T07:00:00-07:00,2021-04-21T07:00:00-07:00,https://event.on24.com/wcc/r/2281639/768B8E741966CFE16F89A11482593BC3,Stonehenge Profile (918),video,768B8E741966CFE16F89A11482593BC3,https://data.on24.com/webcast/report?e=2281639&k=121BC06B5174144F8C353C01EC11113F,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2281639&sessionid=1&key=121BC06B5174144F8C353C01EC11113F,"[{'name': 'Glenn Butcher', 'title': 'Sr. Director, CF Global Marketing', 'company': 'Vertex Pharmaceuticals', 'description': ''}, {'name': 'Alex Lopes', 'title': 'Account Executive', 'company': 'ON24, Inc', 'description': ''}]","[{'code': '-', 'count': 26}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2281639&sessionid=1&key=121BC06B5174144F8C353C01EC11113F,http://event.on24.com/webcast/previewlobby?e=2281639&k=121BC06B5174144F8C353C01EC11113F,null,webcast,2020-05-06T05:57:06-07:00,null,,
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 1, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2313114,75,35078,2020-04-30T06:00:00-07:00,TRUE,TRUE,EMAIL TEMPLATES (Do Not Delete),TRUE,America/New_York,Simu-live,Other,2020-04-23T10:15:00-07:00,en,2020-05-18T09:15:51-07:00,N,2020-04-30T05:45:00-07:00,2020-04-30T07:00:00-07:00,2020-04-30T07:30:00-07:00,2021-04-30T07:30:00-07:00,https://event.on24.com/wcc/r/2313114/D5A16829CFEC0B0C415354E7B8185406,Stonehenge Profile (918),audio,D5A16829CFEC0B0C415354E7B8185406,https://data.on24.com/webcast/report?e=2313114&k=5CCCDDB190831EAEB6A166763915930F,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2313114&sessionid=1&key=5CCCDDB190831EAEB6A166763915930F,null,"[{'code': '-', 'count': 1}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2313114&sessionid=1&key=5CCCDDB190831EAEB6A166763915930F,http://event.on24.com/webcast/previewlobby?e=2313114&k=5CCCDDB190831EAEB6A166763915930F,Other,webcast,2020-04-30T07:08:54-07:00,null,,
+"{'totalregistrants': 1, 'totalattendees': 1, 'liveattendees': 0, 'ondemandattendees': 1, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 3, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2351631,30,35078,2020-05-11T13:00:00-07:00,TRUE,TRUE,Glenn's Test Webcast,TRUE,US/Eastern,Live Phone,null,2020-05-11T12:35:56-07:00,en,2020-05-25T13:27:46-07:00,N,2020-05-11T12:45:00-07:00,2020-05-11T13:15:00-07:00,2020-05-11T13:45:00-07:00,2021-05-11T13:45:00-07:00,https://event.on24.com/wcc/r/2351631/598D5C5ECFD0B08E6F2B1AC87915E8BB,Stonehenge Profile (918),audio,598D5C5ECFD0B08E6F2B1AC87915E8BB,https://data.on24.com/webcast/report?e=2351631&k=91282F6930D5FB6C4887074EDF359D7F,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2351631&sessionid=1&key=91282F6930D5FB6C4887074EDF359D7F,null,"[{'code': '-', 'count': 3}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2351631&sessionid=1&key=91282F6930D5FB6C4887074EDF359D7F,http://event.on24.com/webcast/previewlobby?e=2351631&k=91282F6930D5FB6C4887074EDF359D7F,null,webcast,2020-05-21T17:23:07-07:00,null,,
+"{'totalregistrants': 1, 'totalattendees': 1, 'liveattendees': 0, 'ondemandattendees': 1, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 2, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2344090,30,35078,2020-05-11T15:30:00-07:00,TRUE,TRUE,Test for Stephen,TRUE,America/Los_Angeles,Live Video and Audio,null,2020-05-07T02:59:46-07:00,en,2020-05-25T12:27:46-07:00,N,2020-05-11T15:15:00-07:00,2020-05-11T15:45:00-07:00,2020-05-11T16:15:00-07:00,2021-05-11T16:15:00-07:00,https://event.on24.com/wcc/r/2344090/C7AC81B912ABE55DB17F345C5C13508A,Stonehenge Profile (918),video,C7AC81B912ABE55DB17F345C5C13508A,https://data.on24.com/webcast/report?e=2344090&k=CBC5720E01F5509CF9C4D7C7E94C4F8B,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2344090&sessionid=1&key=CBC5720E01F5509CF9C4D7C7E94C4F8B,null,"[{'code': '-', 'count': 2}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2344090&sessionid=1&key=CBC5720E01F5509CF9C4D7C7E94C4F8B,http://event.on24.com/webcast/previewlobby?e=2344090&k=CBC5720E01F5509CF9C4D7C7E94C4F8B,null,webcast,2020-05-21T15:54:11-07:00,null,,
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 0, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2374200,30,35078,2020-05-20T11:00:00-07:00,TRUE,TRUE,Copy of Vertex ON24 Intro and Demo (Apr 21st),TRUE,America/New_York,Live Video and Audio,null,2020-05-20T10:57:25-07:00,en,2020-05-21T01:00:09-07:00,N,2020-05-20T10:45:00-07:00,2020-05-20T11:15:00-07:00,2020-05-20T11:45:00-07:00,2021-05-20T11:45:00-07:00,https://event.on24.com/wcc/r/2374200/6E8BD1B03F055F86933656654E10582D,Stonehenge Profile (918),video,6E8BD1B03F055F86933656654E10582D,https://data.on24.com/webcast/report?e=2374200&k=ED6F06E299F8D9EA794216B3050E2AD6,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2374200&sessionid=1&key=ED6F06E299F8D9EA794216B3050E2AD6,"[{'name': 'Glenn Butcher', 'title': 'Sr. Director, CF Global Marketing', 'company': 'Vertex Pharmaceuticals', 'description': ''}, {'name': 'Alex Lopes', 'title': 'Account Executive', 'company': 'ON24, Inc', 'description': ''}]",null,null,https://pm.on24.com/presentationManager/login.jsp?eventid=2374200&sessionid=1&key=ED6F06E299F8D9EA794216B3050E2AD6,http://event.on24.com/webcast/previewlobby?e=2374200&k=ED6F06E299F8D9EA794216B3050E2AD6,null,webcast,2020-05-20T10:57:26-07:00,null,,
+"{'totalregistrants': 2, 'totalattendees': 2, 'liveattendees': 2, 'ondemandattendees': 1, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 1, 'numberofpollresponses': 1, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 4, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 1.1}",2374213,6,35078,2020-05-20T11:00:00-07:00,TRUE,TRUE,Copy of Vertex ON24 Intro and Demo (Apr 21st),TRUE,America/New_York,Live Video and Audio,null,2020-05-20T10:59:46-07:00,en,2020-05-25T01:27:46-07:00,N,2020-05-20T10:45:00-07:00,2020-05-20T11:09:20-07:00,2020-05-20T11:45:00-07:00,2021-05-20T11:45:00-07:00,https://event.on24.com/wcc/r/2374213/ECC97C3D40E646F1BB11420E8DD1085F,Stonehenge Profile (918),video,ECC97C3D40E646F1BB11420E8DD1085F,https://data.on24.com/webcast/report?e=2374213&k=0CC4BBC8931C0215D7DE0087A6290651,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2374213&sessionid=1&key=0CC4BBC8931C0215D7DE0087A6290651,"[{'name': 'Glenn Butcher', 'title': 'Sr. Director, CF Global Marketing', 'company': 'Vertex Pharmaceuticals', 'description': ''}, {'name': 'Alex Lopes', 'title': 'Account Executive', 'company': 'ON24, Inc', 'description': ''}]","[{'code': '-', 'count': 4}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2374213&sessionid=1&key=0CC4BBC8931C0215D7DE0087A6290651,http://event.on24.com/webcast/previewlobby?e=2374213&k=0CC4BBC8931C0215D7DE0087A6290651,null,webcast,2020-05-21T16:24:10-07:00,null,,
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 0, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2244794,43,35078,2020-06-04T19:26:00-07:00,TRUE,TRUE,Prof. Wielpütz recording session,TRUE,US/Eastern,On Demand,null,2020-03-25T10:36:45-07:00,de,2020-06-04T19:25:39-07:00,N,2020-06-04T19:26:00-07:00,2020-06-04T19:26:00-07:00,2020-06-04T19:26:00-07:00,2021-06-04T19:26:00-07:00,https://event.on24.com/wcc/r/2244794/F57B11C82CFC1FF616F8B6D0BD128A56,Stonehenge Profile (1215),audio,F57B11C82CFC1FF616F8B6D0BD128A56,https://data.on24.com/webcast/report?e=2244794&k=6A86822B03DBF17FC1FCD25B3016A2D2,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2244794&sessionid=1&key=6A86822B03DBF17FC1FCD25B3016A2D2,null,null,null,https://pm.on24.com/presentationManager/login.jsp?eventid=2244794&sessionid=1&key=6A86822B03DBF17FC1FCD25B3016A2D2,http://event.on24.com/webcast/previewlobby?e=2244794&k=6A86822B03DBF17FC1FCD25B3016A2D2,null,webcast,2020-06-04T19:25:39-07:00,null,,
+"{'totalregistrants': 2, 'totalattendees': 2, 'liveattendees': 2, 'ondemandattendees': 0, 'numberofquestionsasked': 16, 'numberofquestionsanswered': 1, 'numberofpollspushed': 1, 'numberofpollresponses': 2, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 5, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 3.0}",2408394,9,35078,2020-06-09T06:00:00-07:00,TRUE,TRUE,Vertex Console Demo - Swiss Team,TRUE,US/Eastern,Live Video and Audio,null,2020-06-04T05:36:48-07:00,en,2020-06-16T11:58:05-07:00,N,2020-06-09T05:45:00-07:00,2020-06-09T06:15:07-07:00,2020-06-09T07:30:00-07:00,2021-06-09T07:30:00-07:00,https://event.on24.com/wcc/r/2408394/B1597FFCDDBE164B945C791CA0AABDD4,Stonehenge Profile (918),video,B1597FFCDDBE164B945C791CA0AABDD4,https://data.on24.com/webcast/report?e=2408394&k=4F6423C50ADCD09C5F0854C16E40784D,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2408394&sessionid=1&key=4F6423C50ADCD09C5F0854C16E40784D,"[{'name': 'Paulina Phan', 'title': 'PharmD Fellow', 'company': 'Vertex Pharmaceuticals', 'description': 'Paulina is a Global Medical Affairs PharmD Fellow at Vertex Pharmaceuticals. She is a rotator with the CF Global Marketing Digital Team.'}]","[{'code': '-', 'count': 5}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2408394&sessionid=1&key=4F6423C50ADCD09C5F0854C16E40784D,http://event.on24.com/webcast/previewlobby?e=2408394&k=4F6423C50ADCD09C5F0854C16E40784D,null,webcast,2020-06-09T06:31:28-07:00,"<p style=""margin:0cm 0cm 0.0001pt""><font face=""Calibri, sans-serif""><span style=""font-size: 14.6667px;"">This is a test event. In a normal webinar, speaker information and biography can be input here.</span></font></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt""><img alt="""" src=""https://event.on24.com/event/23/11/87/5/rt/page-logov2.jpg"" style=""width: 445px; height: 79px;"" /></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin: 0cm 0cm 0.0001pt; text-align: center;""><strong><u><a href=""https://www.vrtx.com/about-us"" rel=""noopener"" target=""_blank"">About Vertex</a></u> | <a href=""https://global.vrtx.com/english-privacy-us-residents"">Privacy Policy</a>&nbsp;|&nbsp;<u><a href=""https://www.vrtx.com/terms-and-conditions"" rel=""noopener"" target=""_blank"">Terms of Use</a></u></strong><br />
+<span style=""font-size:10px;"">XX-XX-XXXXXXX&nbsp;</span>|&nbsp;<span style=""font-size:10px;"">MO-YR</span></p>
+",['test'],
+"{'totalregistrants': 16, 'totalattendees': 8, 'liveattendees': 7, 'ondemandattendees': 1, 'numberofquestionsasked': 17, 'numberofquestionsanswered': 1, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 8, 'registrationpagehits': 160, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 3.9}",2311875,44,35078,2020-06-18T07:15:00-07:00,TRUE,TRUE,A little CFTR can change a lot - The Dutch experience with CFTR modulators in patients homozygous for F508del,TRUE,Europe/Zurich,Live Video and Audio,null,2020-04-23T02:18:58-07:00,en,2020-07-14T06:14:32-07:00,N,2020-06-18T07:00:00-07:00,2020-06-18T07:59:34-07:00,2020-06-18T08:30:00-07:00,2020-07-18T08:30:00-07:00,https://event.on24.com/wcc/r/2311875/B76398E095D780FBF2BFD78844649AF7,Stonehenge Profile (918),video,B76398E095D780FBF2BFD78844649AF7,https://data.on24.com/webcast/report?e=2311875&k=45ECD3C24740C05C4ADB6158E9E17D4A,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2311875&sessionid=1&key=45ECD3C24740C05C4ADB6158E9E17D4A,null,"[{'code': '-', 'count': 160}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2311875&sessionid=1&key=45ECD3C24740C05C4ADB6158E9E17D4A,http://event.on24.com/webcast/previewlobby?e=2311875&k=45ECD3C24740C05C4ADB6158E9E17D4A,null,webcast,2020-07-14T06:14:01-07:00,"<p style=""margin:0in; margin-bottom:.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:12pt""><span style=""background:white""><span style=""font-family:&quot;Times New Roman&quot;,serif""><span style=""font-size:11.0pt""><span style=""font-family:&quot;Calibri&quot;,sans-serif"">Dr. Karin de Winter-de Groot will share findings from her research on CFTR function restoration with CFTR modulators and her center&rsquo;s experience with Orkambi&reg; and Symdeko&reg; in patients with a high FEV<sub>1</sub>.</span></span></span></span></span><br />
+&nbsp;</p>
+
+<p style=""margin:0in; margin-bottom:.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:12pt""><span style=""background:white""><span style=""font-family:&quot;Times New Roman&quot;,serif""><span style=""font-size:11.0pt""><span style=""font-family:&quot;Calibri&quot;,sans-serif"">PD Dr. Alain Sauty will chair this session.</span></span></span></span></span></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt""><img alt="""" src=""https://event.on24.com/event/23/11/87/5/rt/page-logov2.jpg"" style=""width: 445px; height: 79px;"" /></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin: 0cm 0cm 0.0001pt; text-align: center;""><strong><u><a href=""https://www.vrtx.com/about-us"" rel=""noopener"" target=""_blank"">About Vertex</a></u> | Privacy Policy: <u><a href=""https://global.vrtx.com/german-swiss-privacy"">German</a></u> / <u><a href=""https://global.vrtx.com/french-swiss-privacy"">French</a></u>&nbsp;|&nbsp;<u><a href=""https://www.vrtx.com/terms-and-conditions"" rel=""noopener"" target=""_blank"">Terms of Use</a><br />
+<a href=""https://portal.on24.com/w3c/privacy.html"">ON24 Privacy Policy</a></u></strong><br />
+<span style=""font-size:10px;"">CH-20-2000040&nbsp;</span>|&nbsp;<span style=""font-size:10px;"">06/2020</span></p>
+","['Orkambi', 'Switzerland', 'Symdeko', 'marketing']",
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 1, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2360211,26,35078,2020-06-22T10:43:00-07:00,TRUE,TRUE,Prof Manfred Ballmann - Recording Session,TRUE,US/Eastern,On Demand,null,2020-05-14T08:28:08-07:00,de,2020-06-22T10:42:50-07:00,N,2020-06-22T10:43:00-07:00,2020-06-22T10:43:00-07:00,2020-06-22T10:43:00-07:00,2021-06-22T10:43:00-07:00,https://event.on24.com/wcc/r/2360211/AACEF48C3ECC84B7C5C863392ED3EC7E,Stonehenge Profile (1215),audio,AACEF48C3ECC84B7C5C863392ED3EC7E,https://data.on24.com/webcast/report?e=2360211&k=2A44158B3FCED31E87963FF5274E8C64,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2360211&sessionid=1&key=2A44158B3FCED31E87963FF5274E8C64,null,"[{'code': '-', 'count': 1}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2360211&sessionid=1&key=2A44158B3FCED31E87963FF5274E8C64,http://event.on24.com/webcast/previewlobby?e=2360211&k=2A44158B3FCED31E87963FF5274E8C64,null,webcast,2020-06-22T10:42:50-07:00,null,"['Germany', 'medical']",
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 0, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2360265,50,35078,2020-06-22T10:51:00-07:00,TRUE,TRUE,Prof Martin Claßen - Recording Session,TRUE,US/Eastern,On Demand,null,2020-05-14T08:40:08-07:00,de,2020-06-22T10:50:57-07:00,N,2020-06-22T10:51:00-07:00,2020-06-22T10:51:00-07:00,2020-06-22T10:51:00-07:00,2021-06-22T10:51:00-07:00,https://event.on24.com/wcc/r/2360265/316771A00A10AE7FA2820230675B912B,Stonehenge Profile (1215),audio,316771A00A10AE7FA2820230675B912B,https://data.on24.com/webcast/report?e=2360265&k=8C54187EB8ACA2AEF4068700745C6A07,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2360265&sessionid=1&key=8C54187EB8ACA2AEF4068700745C6A07,null,null,null,https://pm.on24.com/presentationManager/login.jsp?eventid=2360265&sessionid=1&key=8C54187EB8ACA2AEF4068700745C6A07,http://event.on24.com/webcast/previewlobby?e=2360265&k=8C54187EB8ACA2AEF4068700745C6A07,null,webcast,2020-06-22T10:50:57-07:00,null,"['Germany', 'medical']",
+"{'totalregistrants': 15, 'totalattendees': 7, 'liveattendees': 7, 'ondemandattendees': 1, 'numberofquestionsasked': 14, 'numberofquestionsanswered': 1, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 8, 'registrationpagehits': 15, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 3.6}",2395867,43,35078,2020-06-25T07:15:00-07:00,TRUE,TRUE,German experience treating young children with Orkambi®,TRUE,Europe/Zurich,Live Video and Audio,null,2020-05-29T09:37:48-07:00,en,2020-07-27T07:46:37-07:00,N,2020-06-25T07:00:00-07:00,2020-06-25T07:58:30-07:00,2020-06-25T08:30:00-07:00,2021-06-25T08:30:00-07:00,https://event.on24.com/wcc/r/2395867/E7922E6E97A11E59E2638B0703261A32,Stonehenge Profile (918),video,E7922E6E97A11E59E2638B0703261A32,https://data.on24.com/webcast/report?e=2395867&k=D687D15BF25F1F2691AFB1AD4601A1E5,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2395867&sessionid=1&key=D687D15BF25F1F2691AFB1AD4601A1E5,null,"[{'code': '-', 'count': 5}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2395867&sessionid=1&key=D687D15BF25F1F2691AFB1AD4601A1E5,http://event.on24.com/webcast/previewlobby?e=2395867&k=D687D15BF25F1F2691AFB1AD4601A1E5,null,webcast,2020-07-24T10:11:22-07:00,"<p class=""x"" style=""margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif"">Dr. Jobst R&ouml;hmel will share his experience treating young children with Orkambi&reg; in his clinic.</span></span></p>
+
+<p style=""margin:0in; margin-bottom:.0001pt; margin-right:0in; margin-left:0in"">&nbsp;</p>
+
+<p style=""margin:0in; margin-bottom:.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:12pt""><span style=""background:white""><span style=""font-family:&quot;Times New Roman&quot;,serif""><span style=""font-size:11.0pt""><span style=""font-family:&quot;Calibri&quot;,sans-serif""><span style=""color:black"">Prof. Philipp Latzin will chair this session.</span></span></span></span></span></span></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt""><img alt="""" src=""https://event.on24.com/event/23/11/87/5/rt/page-logov2.jpg"" style=""width: 445px; height: 79px;"" /></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin: 0cm 0cm 0.0001pt; text-align: center;""><strong><u><a href=""https://www.vrtx.com/about-us"" rel=""noopener"" target=""_blank"">About Vertex</a></u> | Privacy Policy: <u><a href=""https://global.vrtx.com/german-swiss-privacy"">German</a></u> / <u><a href=""https://global.vrtx.com/french-swiss-privacy"">French</a></u>&nbsp;|&nbsp;<u><a href=""https://www.vrtx.com/terms-and-conditions"" rel=""noopener"" target=""_blank"">Terms of Use</a><br />
+<a href=""https://portal.on24.com/w3c/privacy.html"">ON24 Privacy Policy</a></u></strong><br />
+<span style=""font-size:10px;"">CH-20-2000040&nbsp;|&nbsp;06/2020</span></p>
+","['Orkambi', 'Switzerland', 'marketing']",
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 1, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2244805,24,35078,2020-06-30T06:00:00-07:00,TRUE,TRUE,Dr. Stahl recording session,TRUE,US/Eastern,On Demand,null,2020-03-25T10:39:52-07:00,de,2020-05-22T13:37:10-07:00,N,2020-06-30T06:00:00-07:00,2020-06-30T06:00:00-07:00,2020-06-30T06:00:00-07:00,2020-12-31T23:59:00-08:00,https://event.on24.com/wcc/r/2244805/222369771D110D6A4CE3C1B557FDC3EE,Stonehenge Profile (1215),audio,222369771D110D6A4CE3C1B557FDC3EE,https://data.on24.com/webcast/report?e=2244805&k=5A6E2DC9D06B27995EB2AC1B44167660,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2244805&sessionid=1&key=5A6E2DC9D06B27995EB2AC1B44167660,null,"[{'code': '-', 'count': 1}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2244805&sessionid=1&key=5A6E2DC9D06B27995EB2AC1B44167660,http://event.on24.com/webcast/previewlobby?e=2244805&k=5A6E2DC9D06B27995EB2AC1B44167660,null,webcast,2020-05-22T13:37:10-07:00,null,null,
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 2, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2261842,11,35078,2020-06-30T09:00:00-07:00,TRUE,TRUE,Dr. Jutta Hammermann - Recording Session,TRUE,America/Los_Angeles,On Demand,null,2020-04-02T14:13:24-07:00,de,2020-05-31T14:08:46-07:00,N,2020-06-30T09:00:00-07:00,2020-06-30T09:00:00-07:00,2020-06-30T09:00:00-07:00,2020-12-31T23:59:00-08:00,https://event.on24.com/wcc/r/2261842/2122DDA274F9BFDE2EEAE2C9C6B50413,Stonehenge Profile (1215),audio,2122DDA274F9BFDE2EEAE2C9C6B50413,https://data.on24.com/webcast/report?e=2261842&k=F7A3FD2BF96F73D5BF1F8EAD785B7915,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2261842&sessionid=1&key=F7A3FD2BF96F73D5BF1F8EAD785B7915,null,"[{'code': '-', 'count': 2}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2261842&sessionid=1&key=F7A3FD2BF96F73D5BF1F8EAD785B7915,http://event.on24.com/webcast/previewlobby?e=2261842&k=F7A3FD2BF96F73D5BF1F8EAD785B7915,null,webcast,2020-05-27T14:07:23-07:00,null,null,
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 0, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2261840,36,35078,2020-06-30T09:00:00-07:00,TRUE,TRUE,Dr. Sommerburg recording,TRUE,America/Los_Angeles,On Demand,null,2020-04-02T14:12:20-07:00,de,2020-05-22T13:37:24-07:00,N,2020-06-30T09:00:00-07:00,2020-06-30T09:00:00-07:00,2020-06-30T09:00:00-07:00,2020-12-31T23:59:00-08:00,https://event.on24.com/wcc/r/2261840/766212196793C10BF4FFC671DDDCB8E5,Stonehenge Profile (1215),audio,766212196793C10BF4FFC671DDDCB8E5,https://data.on24.com/webcast/report?e=2261840&k=B4BB0F6D9128324F4BD4B9F2FFA099D4,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2261840&sessionid=1&key=B4BB0F6D9128324F4BD4B9F2FFA099D4,null,null,null,https://pm.on24.com/presentationManager/login.jsp?eventid=2261840&sessionid=1&key=B4BB0F6D9128324F4BD4B9F2FFA099D4,http://event.on24.com/webcast/previewlobby?e=2261840&k=B4BB0F6D9128324F4BD4B9F2FFA099D4,null,webcast,2020-05-22T13:37:24-07:00,null,null,
+"{'totalregistrants': 18, 'totalattendees': 10, 'liveattendees': 8, 'ondemandattendees': 3, 'numberofquestionsasked': 4, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 8, 'registrationpagehits': 18, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 3.6}",2395883,46,35078,2020-07-02T07:15:00-07:00,TRUE,TRUE,Symdeko® for the treatment of patients with residual function mutations. The Israeli experience,TRUE,Europe/Zurich,Live Video and Audio,null,2020-05-29T09:44:23-07:00,en,2020-07-27T08:16:37-07:00,N,2020-07-02T07:00:00-07:00,2020-07-02T08:01:28-07:00,2020-07-02T08:30:00-07:00,2021-07-02T08:30:00-07:00,https://event.on24.com/wcc/r/2395883/368E66D0182FFF5D9216A10B5B9A2DB9,Stonehenge Profile (918),video,368E66D0182FFF5D9216A10B5B9A2DB9,https://data.on24.com/webcast/report?e=2395883&k=0DA715E016EC0AC65C252B60FCC9F57D,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2395883&sessionid=1&key=0DA715E016EC0AC65C252B60FCC9F57D,null,"[{'code': '-', 'count': 12}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2395883&sessionid=1&key=0DA715E016EC0AC65C252B60FCC9F57D,http://event.on24.com/webcast/previewlobby?e=2395883&k=0DA715E016EC0AC65C252B60FCC9F57D,null,webcast,2020-07-24T10:09:36-07:00,"<p class=""x"" style=""margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif"">Dr. Malena Cohen-Cymberknoh will give you an insight into the CF disease state in patients with residual function mutations and will share her center&rsquo;s experience treating these patients with Symdeko&reg;.</span></span></p>
+
+<p class=""x"" style=""margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in"">&nbsp;</p>
+
+<p style=""margin:0in; margin-bottom:.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:12pt""><span style=""background:white""><span style=""font-family:&quot;Times New Roman&quot;,serif""><span style=""font-size:11.0pt""><span style=""font-family:&quot;Calibri&quot;,sans-serif""><span style=""color:black"">PD Dr. Alain Sauty will chair this session.</span></span></span></span></span></span></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt""><img alt="""" src=""https://event.on24.com/event/23/11/87/5/rt/page-logov2.jpg"" style=""width: 445px; height: 79px;"" /></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin: 0cm 0cm 0.0001pt; text-align: center;""><strong><u><a href=""https://www.vrtx.com/about-us"" rel=""noopener"" target=""_blank"">About Vertex</a></u> | Privacy Policy: <u><a href=""https://global.vrtx.com/german-swiss-privacy"">German</a></u> / <u><a href=""https://global.vrtx.com/french-swiss-privacy"">French</a></u>&nbsp;|&nbsp;<u><a href=""https://www.vrtx.com/terms-and-conditions"" rel=""noopener"" target=""_blank"">Terms of Use</a><br />
+<a href=""https://portal.on24.com/w3c/privacy.html"">ON24 Privacy Policy</a></u></strong><br />
+<span style=""font-size:10px;"">CH-20-2000040&nbsp;|&nbsp;06/2020</span></p>
+","['Switzerland', 'Symdeko', 'marketing']",
+"{'totalregistrants': 15, 'totalattendees': 5, 'liveattendees': 5, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 10, 'registrationpagehits': 15, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 4.2}",2395890,51,35078,2020-07-09T07:15:00-07:00,TRUE,TRUE,Swiss Symdeko® clinical trial experience in homozygous F508del patients,TRUE,Europe/Zurich,Live Video and Audio,null,2020-05-29T09:46:04-07:00,en,2020-07-27T07:46:37-07:00,N,2020-07-09T07:00:00-07:00,2020-07-09T08:07:01-07:00,2020-07-09T08:30:00-07:00,2021-07-09T08:30:00-07:00,https://event.on24.com/wcc/r/2395890/8C2585A910BD7DC1040B6FB0C54A2106,Stonehenge Profile (918),video,8C2585A910BD7DC1040B6FB0C54A2106,https://data.on24.com/webcast/report?e=2395890&k=6ECD9F2B790DDC42D798B052220917AD,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2395890&sessionid=1&key=6ECD9F2B790DDC42D798B052220917AD,null,"[{'code': '-', 'count': 7}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2395890&sessionid=1&key=6ECD9F2B790DDC42D798B052220917AD,http://event.on24.com/webcast/previewlobby?e=2395890&k=6ECD9F2B790DDC42D798B052220917AD,null,webcast,2020-07-24T10:09:12-07:00,"<p class=""x"" style=""margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif"">Dr. Reta Fischer and Prof. Alexander M&ouml;ller will share their experience treating patients homozygous for the <i>F508del</i> mutation with Symdeko&reg; in the Phase III clinical trial and it&rsquo;s open label extension.</span></span></p>
+
+<p class=""x"" style=""margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in"">&nbsp;</p>
+
+<p style=""margin:0in; margin-bottom:.0001pt; margin-right:0in; margin-left:0in""><span style=""font-size:12pt""><span style=""background:white""><span style=""font-family:&quot;Times New Roman&quot;,serif""><span style=""font-size:11.0pt""><span style=""font-family:&quot;Calibri&quot;,sans-serif""><span style=""color:black"">Prof. Philipp Latzin will chair this session.</span></span></span></span></span></span></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin:0cm 0cm 0.0001pt""><img alt="""" src=""https://event.on24.com/event/23/11/87/5/rt/page-logov2.jpg"" style=""width: 445px; height: 79px;"" /></p>
+
+<p style=""margin:0cm 0cm 0.0001pt"">&nbsp;</p>
+
+<p style=""margin: 0cm 0cm 0.0001pt; text-align: center;""><strong><u><a href=""https://www.vrtx.com/about-us"" rel=""noopener"" target=""_blank"">About Vertex</a></u> | Privacy Policy: <u><a href=""https://global.vrtx.com/german-swiss-privacy"">German</a></u> / <u><a href=""https://global.vrtx.com/french-swiss-privacy"">French</a></u>&nbsp;|&nbsp;<u><a href=""https://www.vrtx.com/terms-and-conditions"" rel=""noopener"" target=""_blank"">Terms of Use</a><br />
+<a href=""https://portal.on24.com/w3c/privacy.html"">ON24 Privacy Policy</a></u></strong><br />
+<span style=""font-size:10px;"">CH-20-2000040&nbsp;|&nbsp;06/2020</span></p>
+","['Switzerland', 'Symdeko', 'marketing']",
+"{'totalregistrants': 2, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 2, 'registrationpagehits': 2, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2506569,2,35078,2020-07-11T06:00:00-07:00,TRUE,TRUE,email reminder test gb,TRUE,US/Eastern,Simu-live,Other,2020-07-08T17:55:20-07:00,en,2020-07-17T10:18:55-07:00,N,2020-07-11T05:45:00-07:00,2020-07-11T07:00:00-07:00,2020-07-11T07:30:00-07:00,2021-07-11T07:30:00-07:00,https://event.on24.com/wcc/r/2506569/EA1B1396EB235A22678A281A059A33C2,Stonehenge Profile (918),audio,EA1B1396EB235A22678A281A059A33C2,https://data.on24.com/webcast/report?e=2506569&k=AEC3E32FEACA257EE701D2EAF303B3DF,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2506569&sessionid=1&key=AEC3E32FEACA257EE701D2EAF303B3DF,null,"[{'code': '-', 'count': 2}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2506569&sessionid=1&key=AEC3E32FEACA257EE701D2EAF303B3DF,http://event.on24.com/webcast/previewlobby?e=2506569&k=AEC3E32FEACA257EE701D2EAF303B3DF,Other,webcast,2020-07-11T04:05:06-07:00,null,null,
+"{'totalregistrants': 0, 'totalattendees': 0, 'liveattendees': 0, 'ondemandattendees': 0, 'numberofquestionsasked': 1, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 1, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0}",2528523,75,35078,2020-07-20T07:30:00-07:00,TRUE,TRUE,Copy of CEE Region C FURTHER August,TRUE,US/Eastern,Live Video and Audio,Marketing,2020-07-20T07:27:28-07:00,en,2020-07-21T01:03:42-07:00,N,2020-07-20T07:15:00-07:00,2020-07-20T08:30:00-07:00,2020-07-20T09:00:00-07:00,2021-07-20T09:00:00-07:00,https://event.on24.com/wcc/r/2528523/7831F512F82A7BEAD7D2B66ABD277050,Stonehenge Profile (918),video,7831F512F82A7BEAD7D2B66ABD277050,https://data.on24.com/webcast/report?e=2528523&k=F71A5C8EA043D2156B879F04C4CFA9C8,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2528523&sessionid=1&key=F71A5C8EA043D2156B879F04C4CFA9C8,null,"[{'code': '-', 'count': 1}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2528523&sessionid=1&key=F71A5C8EA043D2156B879F04C4CFA9C8,http://event.on24.com/webcast/previewlobby?e=2528523&k=F71A5C8EA043D2156B879F04C4CFA9C8,Customer Engagement,webcast,2020-07-20T07:27:43-07:00,null,['marketing'],
+"{'totalregistrants': 1, 'totalattendees': 1, 'liveattendees': 1, 'ondemandattendees': 0, 'numberofquestionsasked': 0, 'numberofquestionsanswered': 0, 'numberofpollspushed': 0, 'numberofpollresponses': 0, 'numberofsurveyspresented': 0, 'numberofsurveyresponses': 0, 'noshowcount': 0, 'registrationpagehits': 2, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 0.5}",2536383,3,35078,2020-07-29T05:30:00-07:00,TRUE,TRUE,Paulina's Voice + Video Demo,TRUE,US/Eastern,Live Video and Audio,null,2020-07-23T07:11:42-07:00,en,2020-08-03T12:57:32-07:00,N,2020-07-29T05:15:00-07:00,2020-07-29T05:40:30-07:00,2020-07-29T07:00:00-07:00,2021-07-29T07:00:00-07:00,https://event.on24.com/wcc/r/2536383/0CA2B410FBF14767A8E5C56F1FE26376,Stonehenge Profile (918),video,0CA2B410FBF14767A8E5C56F1FE26376,https://data.on24.com/webcast/report?e=2536383&k=D4BAC644DD63B33A5E220CD9162EEE91,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2536383&sessionid=1&key=D4BAC644DD63B33A5E220CD9162EEE91,null,"[{'code': '-', 'count': 2}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2536383&sessionid=1&key=D4BAC644DD63B33A5E220CD9162EEE91,http://event.on24.com/webcast/previewlobby?e=2536383&k=D4BAC644DD63B33A5E220CD9162EEE91,null,webcast,2020-07-29T14:22:08-07:00,null,['test'],
+"{'totalregistrants': 4, 'totalattendees': 3, 'liveattendees': 3, 'ondemandattendees': 1, 'numberofquestionsasked': 3, 'numberofquestionsanswered': 0, 'numberofpollspushed': 1, 'numberofpollresponses': 3, 'numberofsurveyspresented': 1, 'numberofsurveyresponses': 3, 'noshowcount': 1, 'registrationpagehits': 10, 'numberofgroupchatmessagessubmitted': 0, 'eventengagementscore': 3.1}",2533523,10,35078,2020-07-31T06:40:00-07:00,TRUE,TRUE,Demo ON24 Ana Dominguez,TRUE,Europe/Madrid,Live Video and Audio,Training/Learning,2020-07-22T07:14:26-07:00,en,2020-08-01T01:09:23-07:00,N,2020-07-31T06:25:00-07:00,2020-07-31T06:54:16-07:00,2020-07-31T07:40:00-07:00,2021-07-31T07:40:00-07:00,https://event.on24.com/wcc/r/2533523/36F369F0A4D284E92D36F898E79D44EA,Stonehenge Profile (918),video,36F369F0A4D284E92D36F898E79D44EA,https://data.on24.com/webcast/report?e=2533523&k=616BCFA3774796C48FB01715A347A32D,http://event.on24.com/eventManager/UploadAssetsServlet?cb=on24&eventId=2533523&sessionid=1&key=616BCFA3774796C48FB01715A347A32D,"[{'name': 'Ana Dominguez', 'title': 'Digital Project Specialist', 'company': 'Vertex', 'description': 'My bio should be here :)'}]","[{'code': '-', 'count': 10}]",null,https://pm.on24.com/presentationManager/login.jsp?eventid=2533523&sessionid=1&key=616BCFA3774796C48FB01715A347A32D,http://event.on24.com/webcast/previewlobby?e=2533523&k=616BCFA3774796C48FB01715A347A32D,Employee Training,webcast,2020-07-31T09:13:08-07:00,null,['test'],['https://event.on24.com/eventManager/presentation/survey.jsp?eventId=2533523&sessionid=1&key=36F369F0A4D284E92D36F898E79D44EA&survey=survey1']

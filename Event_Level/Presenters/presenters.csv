@@ -1,0 +1,11 @@
+endtime,email,ispracticesession,accessmode,firstname,presenterid,starttime,lastname,eventid
+2020-03-19T09:28:29-07:00,alex.lopes@on24.com,N,Producer,Alexander,3548652,2020-03-19T08:30:49-07:00,Lopes,2224325
+2020-03-19T10:09:17-07:00,glenn_butcher@vrtx.com,N,Presenter,Glenn,3548628,2020-03-19T08:37:58-07:00,Butcher,2224325
+2020-03-18T13:48:11-07:00,matt_villone@vrtx.com,Y,Presenter,Matt,3548588,2020-03-18T12:58:54-07:00,Villone,2224325
+2020-03-18T13:48:31-07:00,kate.robison@on24.com,Y,Producer,Kate,3543410,2020-03-18T12:57:42-07:00,ON24,2224325
+2020-03-19T10:09:14-07:00,diane.mohan@on24.com,N,Producer,Diane,3539092,2020-03-19T08:32:30-07:00,Mohan,2224325
+2020-03-24T06:02:19-07:00,julia_sharp@vrtx.com,N,Presenter,Julia,3566646,2020-03-24T06:01:19-07:00,Sharp,2240042
+2020-03-24T06:00:32-07:00,matt_villone@vrtx.com,N,Producer,Matt,3566631,2020-03-24T05:59:32-07:00,Villone,2240042
+2020-03-24T05:57:11-07:00,alexandre_patchev@vrtx.com,N,Presenter,Alexandre,3566614,2020-03-24T05:56:11-07:00,Patchev,2240042
+2020-03-24T05:49:08-07:00,diane.mohan@on24.com,N,Producer,Diane,3564438,2020-03-24T05:49:08-07:00,Mohan,2240042
+2020-03-30T11:09:44-07:00,glenn_butcher@vrtx.com,N,Producer,Glenn,3593964,2020-03-30T11:05:08-07:00,Butcher,2252874
