@@ -1,0 +1,13 @@
+eventid,clientid,sessionid,eventtitle,presenterid,firstname,lastname,email,accessmode,starttime,endtime,ispracticesession
+2252874,35078,1,Glenn's Test Webcast,3593964,Glenn,Butcher,glenn_butcher@vrtx.com,Producer,2020-03-30T11:05:08-07:00,2020-03-30T11:09:44-07:00,N
+2240042,35078,1,On demand testing with Alex & Julia,3566646,Julia,Sharp,julia_sharp@vrtx.com,Presenter,2020-03-24T06:01:19-07:00,2020-03-24T06:02:19-07:00,N
+2240042,35078,1,On demand testing with Alex & Julia,3566631,Matt,Villone,matt_villone@vrtx.com,Producer,2020-03-24T05:59:32-07:00,2020-03-24T06:00:32-07:00,N
+2240042,35078,1,On demand testing with Alex & Julia,3566614,Alexandre,Patchev,alexandre_patchev@vrtx.com,Presenter,2020-03-24T05:56:11-07:00,2020-03-24T05:57:11-07:00,N
+2240042,35078,1,On demand testing with Alex & Julia,3564438,Diane,Mohan,diane.mohan@on24.com,Producer,2020-03-24T05:49:08-07:00,2020-03-24T05:49:08-07:00,N
+2224325,35078,1,Vertex ON24 Webcasting Demo,3548628,Glenn,Butcher,glenn_butcher@vrtx.com,Presenter,2020-03-19T08:37:58-07:00,2020-03-19T10:09:17-07:00,N
+2224325,35078,1,Vertex ON24 Webcasting Demo,3539092,Diane,Mohan,diane.mohan@on24.com,Producer,2020-03-19T08:32:30-07:00,2020-03-19T10:09:14-07:00,N
+2224325,35078,1,Vertex ON24 Webcasting Demo,3548652,Alexander,Lopes,alex.lopes@on24.com,Producer,2020-03-19T08:30:49-07:00,2020-03-19T09:28:29-07:00,N
+2224325,35078,1,Vertex ON24 Webcasting Demo,3548588,Matt,Villone,matt_villone@vrtx.com,Presenter,2020-03-18T12:58:54-07:00,2020-03-18T13:48:11-07:00,Y
+2224325,35078,1,Vertex ON24 Webcasting Demo,3543410,Kate,ON24,kate.robison@on24.com,Producer,2020-03-18T12:57:42-07:00,2020-03-18T13:48:31-07:00,Y
+2217773,35078,1,BRANDED TEMPLATE: Audio Webcast (Do Not Delete),3527367,Diane,Mohan,diane.mohan@on24.com,Producer,2020-03-16T15:59:15-07:00,2020-03-16T16:52:09-07:00,N
+2207441,35078,1,UNBRANDED TEMPLATE: Broadcast Video (Do Not Delete),3498239,Diane,Mohan,diane.mohan@on24.com,Producer,2020-03-16T15:16:08-07:00,2020-03-16T15:40:56-07:00,N

@@ -1,0 +1,10 @@
+message,questions
+null,[]
+message,questions
+"Invalid Date format for params startdate and enddate. Valid formats are DD-MM-YYYY, YYYY-MM-DD,  YYYY-MM-DDThh:mm:ss and YYYY-MM-DDThh:mm:ss±zz:zz",null
+message,questions
+null,[]
+message,questions
+the startDate and endDate are more than 1 hour apart.,null
+message,questions
+null,[]
