@@ -1,0 +1,72 @@
+[{'questionid': 24081460,
+  'createtimestamp': '2020-03-19T09:06:19-07:00',
+   'content': 'Are we all on mute, except for the speakers?',
+
+
+  'answer': {'createtimestamp': '2020-03-19T09:07:13-07:00',
+             'content': 'You are only listening, as you are connected via your computer.  You cannot speak on this platform.\n',
+             'presenterid': 3539092,
+             'presentername': 'Diane Mohan',
+             'privacy': 'Private'}},
+
+
+  {'questionid': 24082705,
+   'createtimestamp': '2020-03-19T09:23:54-07:00',
+   'content': 'Can the presenter use a pointer to show sth on the slides?'}]
+
+
+parsing:
+--------
+
+https://stackoverflow.com/questions/59746744/parsing-a-list-of-dictionaries-in-a-pandas-data-frame-rows
+
+
+https://stackoverflow.com/questions/53492365/accessing-dictionary-within-dataframes
+
+
+https://stackoverflow.com/questions/50512188/unpack-dictionary-from-pandas-column
+
+
+
+
+https://vrtx.zoom.us/my/manishabiyani?pwd=SUo4UmJUR28zSDZuRVR0L3YzUGpkZz09
+
+par_df_exp = par_df.explode('questions').reset_index()
+
+par_df_exp.drop('index', axis=1, inplace=True)
+
+
+
+par_df_exp['questionid'] = None
+
+par_df_exp.head(1)
+
+for i in range(len(par_df_exp)):
+    par_df_exp.loc[i, 'questionid'] = par_df_exp.loc[i, 'questions']['questionid']
+
+
+
+rcode analysis
+
+python code
+
+functionality added in that python
+
+NLP analysis wordcloud word net sentiment analysis
+
+to look for
+-----------
+python
+
+add functionalities
+-------------------
+
+
+author analytics
+
+NLP work full-fledge topic modelling clustering sentiment analysis 
+
+
+
+
+

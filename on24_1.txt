@@ -1,0 +1,66 @@
+1.	What is on24 . some write up will help. Refer : https://www.on24.com/
+2.	How data can be extracted from On24 webinar source
+3.	What are the various methods in API
+
+What is ON24?
+ON24® is on a mission to transform the way businesses engage with their audience, powering interactive, data-rich digital marketing experiences that drive a resilient revenue strategy.
+
+Through the ON24 Platform, marketers can create and deliver live, always-on and personalized webinar, content and virtual event experiences, and capture audience behavior to turn engagement into actionable data. With a digital experience taking place every minute, ON24 is the network where a half-million professionals engage every day for a total of 4 billion engagement minutes per year. Headquartered in San Francisco, ON24 has a wide global footprint with eight offices in key regions, including London, Munich, Singapore, Stockholm and Sydney.
+
+
+
+https://www.on24.com/connect/
+
+  under tab - "custom map engagement data" - can find multiple tools just tried with 2
+
+               click on sugarcrm  or https://www.on24.com/sugarcrm/
+
+               About ON24 Webinar Integration
+
+               Push webinar analytics, including registration and attendance details, into standard or custom modules. With this robust data, create and update leads and contacts, build campaigns, effectively generate opportunities and efficiently inform sales teams.
+
+
+               click on qlik view or https://www.on24.com/qlik-view/
+
+               Using the ON24 API, customers can pull data into QlikView, enabling users to align strategies and transform business. 
+
+
+
+http://apidoc.on24.com/home
+
+
+
+
+Client ID:	35078
+Token Key:	7395A8453B4A0C3FFE740A4BD1243AF7
+Token Secret:	ee21904b2ff27350d86e5ac381cfbaf40384af7c14d637985a3dad96c020f4108aa5286cb67d93ef63c3e6599a52207873a8d86cca462ee35a6859c20bf55dce
+Creation Date:	06/17/2020 11:34:37 AM PDT
+Last Activity:	06/17/2020 11:34:37 AM PDT
+Created By:	Glenn Butcher
+Assigned To:	Glenn Butcher
+
+https://data.on24.com/webcast/lead?{35078}&accessTokenKey=7395A8453B4A0C3FFE740A4BD1243AF7&accessTokenKey&accessTokenSecret=ee21904b2ff27350d86e5ac381cfbaf40384af7c14d637985a3dad96c020f4108aa5286cb67d93ef63c3e6599a52207873a8d86cca462ee35a6859c20bf55dce
+
+
+
+
+
+https://www.youtube.com/watch?v=RBWEqy8XOlA
+https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/#:~:text=Code%20%7C%20Python%20Central-,Python's%20time.,or%20Sleep%20your%20Python%20Code&text=Python's%20time%20module%20has%20a,it%20pauses%20your%20Python%20program.
+
+https://www.youtube.com/watch?v=NIWwJbo-9_8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
